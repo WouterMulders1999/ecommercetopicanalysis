@@ -37,6 +37,7 @@ Lda = gensim.models.ldamodel.LdaModel
 
 # %%
 app = dash.Dash()
+server = app.server
 
 n_words = 10
 app.layout = html.Div(
