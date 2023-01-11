@@ -3,6 +3,5 @@ pandas
 gunicorn
 gensim
 dash_html_components
-dash.dependencies
 dash_core_components
 pyLDAvis.gensim_models
